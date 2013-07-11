@@ -1,0 +1,26 @@
+{
+  "name": "clever_demo",
+  "version": "0.0.0",
+  "description": "Passthrough for clever API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thomblake/clever_demo.git"
+  },
+  "keywords": [
+    "clever",
+    "http"
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/thomblake/clever_demo/issues"
+  },
+  "dependencies": {
+    "express": "~3.3.4"
+  }
+}
